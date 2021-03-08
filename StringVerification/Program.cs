@@ -13,7 +13,7 @@ namespace StringVerification
             do 
             {
                 Console.WriteLine("The default regular expression checks for at least one digit. ");
-                Console.Write("Enter a refular expression (or press ENTER to use the default): ");
+                Console.Write("Enter a regular expression (or press ENTER to use the default): ");
                 myRegularExpression = Console.ReadLine();
                 var strChecker = new Regex(@myRegularExpression);
                 Console.Write("Enter some input: ");

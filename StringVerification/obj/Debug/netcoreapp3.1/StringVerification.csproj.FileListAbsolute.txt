@@ -1,0 +1,13 @@
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.exe
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.deps.json
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.runtimeconfig.json
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.runtimeconfig.dev.json
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.dll
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\bin\Debug\netcoreapp3.1\StringVerification.pdb
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.csprojAssemblyReference.cache
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.AssemblyInfoInputs.cache
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.AssemblyInfo.cs
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.csproj.CoreCompileInputs.cache
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.dll
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.pdb
+C:\Users\Tooks\source\repos\StringVerification\StringVerification\obj\Debug\netcoreapp3.1\StringVerification.genruntimeconfig.cache
